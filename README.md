@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joanna</h1>
-<h3 align="center">A passionate pyton developer and a data analyst from Poland.</h3>
+<h3 align="center">A passionate python developer and data analyst from Poland.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
