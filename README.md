@@ -1,4 +1,4 @@
-<center><a href="" target="_blank" rel="noreferrer"> <img src="https://payload.cargocollective.com/1/24/789577/14066342/about4.gif" alt="gif"/> </a></center>
+<!--- <center><a href="" target="_blank" rel="noreferrer"> <img src="https://payload.cargocollective.com/1/24/789577/14066342/about4.gif" alt="gif"/> </a></center> -->
 
 <h1 align="center">Hi 👋, I'm Joanna</h1>
 <h3 align="center">A passionate BI developer and Knowledge Analyst</h3>
