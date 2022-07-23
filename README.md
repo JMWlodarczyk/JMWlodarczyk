@@ -1,10 +1,10 @@
 <!--- <center><a href="" target="_blank" rel="noreferrer"> <img src="https://payload.cargocollective.com/1/24/789577/14066342/about4.gif" alt="gif"/> </a></center> -->
 
 <h1 align="center">Hi 👋, I'm Joanna</h1>
-<h3 align="center">A passionate BI developer and Knowledge Analyst</h3>
+<h3 align="center">A passionate BI developer and knowledge analyst</h3>
 <h2>About me</h2>
 <ul>
-  <li><p>An expert in Information and Knowledge Management (so I should know how to develop a good readme :) )</p></li>
+  <li><p>An expert in information and knowledge management (so I should know how to develop a good readme :) )</p></li>
   <li><p>Good with data and processes</p></li>
   <li><p>Developing my skills in Python</p></li></ul>
 
@@ -20,7 +20,7 @@
 <p>Dashboard created in the PowerBi to show Game Sales for PS4 in 2013 - 2018. A few visuals, a bit of DAX, and a lot of fun when creating. </p>
 <a href="https://github.com/JMWlodarczyk/Telecom-Customer-Churn">Maven Telecom Customer Churn</a>
 
-<p>Exploring the reasons for a churn in a telecom company. A bit of fun with a design and persona creation, as well as a bit of DAX. Dashboard created in the PowerBi.</p>
+<p>Exploring the reasons for a churn in a telecom company. Fun design and persona creation, a bit of DAX. Dashboard created in the PowerBi.</p>
 <br>
 <b>In Progress</b>:
 
