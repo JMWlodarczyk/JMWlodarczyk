@@ -18,13 +18,13 @@
 <a href="https://github.com/JMWlodarczyk/PS4-Games-Sales-Dashboard">PS4 Games Sales Dashboard</a>
 
 <p>Dashboard created in the PowerBi to show Game Sales for PS4 in 2013 - 2018. A few visuals, a bit of DAX, and a lot of fun when creating. </p>
-<a href="https://github.com/JMWlodarczyk/Telecom-Custumer-Churn-Dashboard">Maven Telecom Customer Churn </a>
+<a href="https://github.com/JMWlodarczyk/Telecom-Customer-Churn">Maven Telecom Customer Churn</a>
 
-<p>Exploring the reasons for churn for Maven Telecom. Fun with a design, persona creation, and a bit of DAX. Dashboard created in the PowerBi. </p>
+<p>Exploring the reasons for a churn in a telecom company. A bit of fun with a design and persona creation, as well as a bit of DAX. Dashboard created in the PowerBi.</p>
 <br>
 <b>In Progress</b>:
 
-<a href="">Space</a>
+<a href="">Space Project</a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left"><a href="https://www.linkedin.com/in/joannawlodarczyk/">LinkedIn</a> | 
