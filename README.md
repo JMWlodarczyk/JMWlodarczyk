@@ -6,10 +6,10 @@
 <ul>
   <li><p>An expert in information and knowledge management (so I should know how to develop a good readme :) )</p></li>
   <li><p>Good with data and processes</p></li>
-  <li><p>Developing my skills in Python</p></li></ul>
+  <li><p>Developing my skills in Python, Linux, bash and AWS :)</p></li></ul>
 
-<h2>Skills and languages<h2>
-<p align="left"> <a href="https://powerbi.microsoft.com/pl-pl/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" alt="PowerBI" width="40" height="40"/> </a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h2>My skills<h2>
+<p align="left"> <a href="https://powerbi.microsoft.com/pl-pl/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" alt="PowerBI" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 <h2>Projects</h2>
 <h3>Data Projects</h3>
@@ -22,10 +22,12 @@
 
 <p>Exploring the reasons for a churn in a telecom company. Fun design and persona creation, a bit of DAX. Dashboard created in the PowerBi.</p>
 <br>
-<b>In Progress</b>:
-
-<a href="">Space Project</a>
-
+<h3>Python Projects</h3>
+<b>In Progress:</b>
+<br>
+<a href="https://github.com/JMWlodarczyk/Docs-Handling">Documents Manipulation</a>
+<br>
+<br>
 <h2 align="left">Connect with me:</h2>
 <p align="left"><a href="https://www.linkedin.com/in/joannawlodarczyk/">LinkedIn</a> | 
 <a href="https://www.hackerrank.com/joawlo">HakerRank</a>
