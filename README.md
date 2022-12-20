@@ -6,7 +6,7 @@
 <ul>
   <li><p>An expert in information and knowledge management (so I should know how to develop a good readme :) )</p></li>
   <li><p>Good with data and processes</p></li>
-  <li><p>Developing my skills in Python, Linux, bash and AWS :)</p></li></ul>
+  <li><p>Developing my skills in Python:)</p></li></ul>
 
 <h2>My skills<h2>
 <p align="left"> <a href="https://powerbi.microsoft.com/pl-pl/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" alt="PowerBI" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
