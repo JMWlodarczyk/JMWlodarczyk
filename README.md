@@ -1,14 +1,14 @@
 <!--- <center><a href="" target="_blank" rel="noreferrer"> <img src="https://payload.cargocollective.com/1/24/789577/14066342/about4.gif" alt="gif"/> </a></center> -->
 
 <h1 align="center">Hi 👋, I'm Joanna</h1>
-<h3 align="center">A passionate BI developer and knowledge analyst</h3>
+<h3 align="center">A passionate Business Intelligence Engineer and aspiring Data Engineer</h3>
 <h2>About me</h2>
 <ul>
   <li><p>BI DEV with MS stack</p></li>
   <li><p>An expert in information and knowledge management (so I should know how to develop a good readme :) )</p></li>
   <li><p>Developing my skills in Python:)</p></li></ul>
 <h2>My skills<h2>
-PowerBI | SQL | Azure Data Factory | SSRS | 
+PowerBI | SQL | Azure | SSRS | T-SQL | Oracle | Data Warehouse 
   
 <h2>Projects</h2>
 <h3>Data Projects</h3>
