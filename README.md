@@ -1,17 +1,24 @@
 <!--- <center><a href="" target="_blank" rel="noreferrer"> <img src="https://payload.cargocollective.com/1/24/789577/14066342/about4.gif" alt="gif"/> </a></center> -->
 
 <h1 align="center">Hi 👋, I'm Joanna</h1>
-<h3 align="center">A passionate Business Intelligence Engineer and aspiring Data Engineer</h3>
-<h2>About me</h2>
+<h3 align="center">A passionate  Data Engineer</h3>
+<h2>Fun facts:</h2>
 <ul>
-  <li><p>BI DEV with MS stack</p></li>
+  <li><p>From BA to BI Engineer to Data Engineer</p></li>
+  <li><p>Working with data quality quite a lot</p></li>
   <li><p>An expert in information and knowledge management (so I should know how to develop a good readme :) )</p></li>
-  <li><p>Developing my skills in Python:)</p></li></ul>
+  <li><p>After hours learing c# to suffer while making games :)</p></li></ul>
 <h2>My skills<h2>
-PowerBI | SQL | Azure | SSRS | T-SQL | Oracle | Data Warehouse 
+Python | SQL | Spark | Azure | Databricks | Azure Data Factory | Data Warehouse
   
 <h2>Projects</h2>
 <h3>Data Projects</h3>
+
+
+
+
+
+<b>OLD PROJECTS <b>
 <b>Completed:</b>
 <br>
 <a href="https://github.com/JMWlodarczyk/PS4-Games-Sales-Dashboard">PS4 Games Sales Dashboard</a>
@@ -22,10 +29,7 @@ PowerBI | SQL | Azure | SSRS | T-SQL | Oracle | Data Warehouse
 <p>Exploring the reasons for a churn in a telecom company. Fun design and persona creation, a bit of DAX. Dashboard created in the PowerBi.</p>
 <br>
 <h3>Python Projects</h3>
-<b>In Progress:</b>
-<br>
-<a href="https://github.com/JMWlodarczyk/Docs-Handling">Documents Manipulation</a>
-<br>
+
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left"><a href="https://www.linkedin.com/in/joannawlodarczyk/">LinkedIn</a> | 
