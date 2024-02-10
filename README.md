@@ -7,29 +7,10 @@
   <li><p>From BA to BI Engineer to Data Engineer</p></li>
   <li><p>Working with data quality quite a lot</p></li>
   <li><p>An expert in information and knowledge management (so I should know how to develop a good readme :) )</p></li>
-  <li><p>After hours learing c# to suffer while making games :)</p></li></ul>
+  <li><p>After hours learning c# to suffer while making games :)</p></li></ul>
 <h2>My skills<h2>
-Python | SQL | Spark | Azure | Databricks | Azure Data Factory | Data Warehouse
-  
-<h2>Projects</h2>
-<h3>Data Projects</h3>
-
-
-
-
-
-<b>OLD PROJECTS <b>
-<b>Completed:</b>
-<br>
-<a href="https://github.com/JMWlodarczyk/PS4-Games-Sales-Dashboard">PS4 Games Sales Dashboard</a>
-
-<p>Dashboard created in the PowerBi to show Game Sales for PS4 in 2013 - 2018. A few visuals, a bit of DAX, and a lot of fun when creating. </p>
-<a href="https://github.com/JMWlodarczyk/Telecom-Customer-Churn">Maven Telecom Customer Churn</a>
-
-<p>Exploring the reasons for a churn in a telecom company. Fun design and persona creation, a bit of DAX. Dashboard created in the PowerBi.</p>
-<br>
-<h3>Python Projects</h3>
-
+Python | SQL | Spark | Azure | Databricks | Azure Data Factory | Data Warehouse | Data Integration | Data Quality
+ 
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left"><a href="https://www.linkedin.com/in/joannawlodarczyk/">LinkedIn</a> | 
