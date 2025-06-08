@@ -81,19 +81,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0d1117&border_color=10b981&icon_color=10b981&text_color=ffffff&title_color=10b981"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0d1117&border_color=10b981&text_color=ffffff&title_color=10b981"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=0d1117&border=10b981&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 Current Focus
 
 <div align="center">
